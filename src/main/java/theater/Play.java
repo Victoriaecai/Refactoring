@@ -1,7 +1,7 @@
 package theater;
 
 /**
- * Class representing a play.
+ * Class that represents a play
  */
 public class Play {
 
