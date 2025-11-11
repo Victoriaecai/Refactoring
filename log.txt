@@ -1,4 +1,5 @@
-ed5d642 (HEAD -> Task-0-2) Task 2.1
+bb6eda7 (HEAD -> Task-0-2) Task 2.1 and log
+ed5d642 Task 2.1
 c382d51 Task 1.1
 6e74dd5 Task 1.2
 2ddf048 (main) Revert "Task 1.1"
